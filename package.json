@@ -1,0 +1,14 @@
+{
+  "name": "yuga",
+  "version": "1.0.0",
+  "description": "a observable pubsub browser-sever pubsub layer over websockets",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [
+    "websocket"
+  ],
+  "author": "Peter de Croos <cultofmetatron@aumlogic.com>",
+  "license": "MIT"
+}
