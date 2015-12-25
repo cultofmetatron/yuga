@@ -10,5 +10,17 @@
     "websocket"
   ],
   "author": "Peter de Croos <cultofmetatron@aumlogic.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "engine.io": "^1.6.4",
+    "rx": "^4.0.7",
+    "webpack": "^1.12.9"
+  },
+  "devDependencies": {
+    "babel": "^6.3.26",
+    "babel-core": "^6.3.26",
+    "babel-eslint": "^4.1.6",
+    "babel-loader": "^6.2.0",
+    "webpack-dev-server": "^1.14.0"
+  }
 }
